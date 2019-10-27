@@ -1,4 +1,4 @@
-package appGit2;
+package appGit1;
 
 public class Test2 {
 	

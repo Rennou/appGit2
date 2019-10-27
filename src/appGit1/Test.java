@@ -1,4 +1,4 @@
-package appGit2;
+package appGit1;
 
 public class Test {
 
@@ -9,6 +9,7 @@ public class Test {
       System.out.println("123333444");
       System.out.println("123");
       System.out.println("345");
+      System.out.println("678");
 
 	}
 
