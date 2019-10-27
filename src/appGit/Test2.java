@@ -9,5 +9,6 @@ System.out.println("master");
 System.out.println("master2");
 System.out.println("123");
 System.out.println("345");
-System.out.println("678");}
+System.out.println("678");
+}
 }
