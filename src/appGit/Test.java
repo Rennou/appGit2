@@ -12,6 +12,7 @@ public class Test {
       System.out.println("678");
       System.out.println("999");
       System.out.println("++++++++++");
+      System.out.println("***********************");
 
 	}
 
